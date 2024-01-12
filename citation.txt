@@ -1,0 +1,8 @@
+@article{REPO270,
+    author = "Wang, Jianyu and Sahu, Anit Kumar and Joshi, Gauri and Kar, Soummya",
+    journal = "IEEE Transactions on Signal Processing",
+    pages = "5208--5221",
+    title = "{MATCHA: A Matching-Based Link Scheduling Strategy to Speed up Distributed Optimization}",
+    volume = "70",
+    year = "2022"
+}
